@@ -2,18 +2,13 @@
   <div class="container">
     <div>
       <Logo />
-      <h1 class="title">unisoftgamedev</h1>
+      <h1 class="title">Unisoft</h1>
       <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--green"
-        >
-          Documentation
+        <a target="_blank" rel="noopener noreferrer" class="button--green">
+          TODO
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/unisoftgamedev/"
           target="_blank"
           rel="noopener noreferrer"
           class="button--grey"

@@ -5,7 +5,7 @@
       <h1 class="title">Unisoft</h1>
       <div class="links">
         <a target="_blank" rel="noopener noreferrer" class="button--green">
-          TODO
+          Pronto disponible
         </a>
         <a
           href="https://github.com/unisoftgamedev/"
